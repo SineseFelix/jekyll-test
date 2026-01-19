@@ -9,5 +9,5 @@ author: Felix
 Normaler ** _das wird fett_ ** und das _italic_
 Liste :
 - erste Zeile
-- zeite Zeile
+- zweite Zeile
 Das ist ein Link: [Khevi](www.khev.at)
