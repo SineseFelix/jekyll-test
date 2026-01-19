@@ -10,4 +10,4 @@ Normaler ** _das wird fett_ ** und das _italic_
 Liste :
 - erste Zeile
 - zeite Zeile
-Das ist ein Link: [Khevi](www.khevi.at)
+Das ist ein Link: [Khevi](www.khev.at)
